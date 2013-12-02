@@ -8,4 +8,6 @@ project.xcworkspace
 OCDiscount/config.h
 OCDiscount/blocktags
 OCDiscount/mkdio.h
-
+OCDiscount.framework
+obj
+derived_src
